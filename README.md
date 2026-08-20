@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Smriti Singh! 👋
 
-<!--
-**smriti-singh49/smriti-singh49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 👩‍💻 About Me
+- **CS Student** passionate about learning new technologies and building creative solutions.
+- Always eager to explore and experiment with code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills & Technologies
+- Programming Languages : C , C++ , Python , JavaScript
+- Tools & Platforms : Jupyter Notebook , Google Colab, Git and GitHub , Figma
+- Frameworks & Libraries : React , Numpy , Pandas , Scikit-learn
+- Database : MySQL
+
+## 🌱 Currently Learning
+- Deepening my JavaScript and Python skills
+- Exploring web development frameworks
+
+## 📫 Connect with Me
+- [LinkedIn](http://www.linkedin.com/in/smriti-singh12345)
+
+## 🎨 Fun Fact
+When I'm not coding, I love **sketching anime characters or doing photography**! It’s my favorite way to unwind and get creative outside of tech.
+
+---
+
+Thanks for visiting my profile! Feel free to connect or reach out. 😊
